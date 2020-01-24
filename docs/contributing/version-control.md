@@ -134,6 +134,8 @@ automatically catch common mistakes in the commit message itself.
 
 -   The body is written in prose, with full paragraphs.
 -   The body explains:
+    -   what the code now does (or doesn't do), in the imperative
+        (unless this would be completely redundant with the summary);
     -   why and how the change was made;
     -   any manual testing you did in addition to running the automated
         tests; and
