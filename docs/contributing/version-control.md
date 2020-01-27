@@ -134,8 +134,9 @@ automatically catch common mistakes in the commit message itself.
 
 -   The body is written in prose, with full paragraphs.
 -   The body explains:
-    -   why and how the change was made
-    -   any manual testing you did in addition to running the automated tests
+    -   why and how the change was made;
+    -   any manual testing you did in addition to running the automated
+        tests; and
     -   any aspects of the commit that you think are questionable and
         you'd like special attention applied to.
 -   If the commit makes performance improvements, you should generally
